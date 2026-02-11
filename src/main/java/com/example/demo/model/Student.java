@@ -18,7 +18,7 @@ public class Student {
     private String password;
     private String email;
     private String course;
-private int rollno;
+
     
     public Student() {
     }
